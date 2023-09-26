@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/alijs/Documents/ASP/FileHandling/FileHandling/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/alijs/Documents/ASP/FileHandling/FileHandling/wwwroot/Upload/.DS_Store",
+      "PackagePath": "staticwebassets/Upload/.DS_Store"
+    },
+    {
+      "Id": "/Users/alijs/Documents/ASP/FileHandling/FileHandling/wwwroot/Upload/Files/.DS_Store",
+      "PackagePath": "staticwebassets/Upload/Files/.DS_Store"
+    },
+    {
+      "Id": "/Users/alijs/Documents/ASP/FileHandling/FileHandling/wwwroot/Upload/Files/8a5f73eb-7187-40b1-a00f-d221c50d26e4.png",
+      "PackagePath": "staticwebassets/Upload/Files/8a5f73eb-7187-40b1-a00f-d221c50d26e4.png"
+    },
+    {
+      "Id": "/Users/alijs/Documents/ASP/FileHandling/FileHandling/wwwroot/Upload/Files/a2a1720a-2228-4a17-abaf-7ae0c224a1f2.jpg",
+      "PackagePath": "staticwebassets/Upload/Files/a2a1720a-2228-4a17-abaf-7ae0c224a1f2.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.FileHandling.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.FileHandling.props",
+      "PackagePath": "build\\FileHandling.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FileHandling.props",
+      "PackagePath": "buildMultiTargeting\\FileHandling.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FileHandling.props",
+      "PackagePath": "buildTransitive\\FileHandling.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
